@@ -1,0 +1,3 @@
+import pycli
+
+pycli.main()
